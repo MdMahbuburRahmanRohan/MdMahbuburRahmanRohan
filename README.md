@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Mahbubur Rahman Rohan</h1>
-<h3 align="center">A passionate BBA graduate from Bangladesh</h3>
+<h3 align="center">A passionate BBA undergraduate from Bangladesh</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/cJFQJzZxFMhONxDTnt/giphy.gif">
 
